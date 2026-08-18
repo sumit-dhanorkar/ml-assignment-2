@@ -103,3 +103,5 @@ Upload `test_data.csv` using the sidebar and select a model from the dropdown. T
 ## Live Streamlit App
 
 [Open Streamlit Application](https://2025ac05259-ml-assignment.streamlit.app/)
+
+The application is deployed using **Streamlit Community Cloud** and provides an interactive frontend for testing and comparing the trained classification models.
