@@ -28,7 +28,8 @@ Streamlit application for evaluation.
 - **Class balance:** 212 malignant / 357 benign (no missing values)
 
 ## c. GitHub Repository Link
-    `https://github.com/sumit-dhanorkar/ml-assignment-2`
+
+[View GitHub Repository](https://github.com/sumit-dhanorkar/ml-assignment-2)
 
 ## d. Models Used
 
@@ -92,4 +93,4 @@ classification report.
 
 ## Live App
 
-`https://2025ac05259-ml-assignment.streamlit.app/`
+[Open Streamlit Application](https://2025ac05259-ml-assignment.streamlit.app/)
